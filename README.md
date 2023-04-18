@@ -10,3 +10,8 @@ conda activate venv/
 ```
 pip install -r requirements.txt
 ```
+
+### To run Docker
+```
+docker build -t diamondprediction(name_of_file):latest .
+```
